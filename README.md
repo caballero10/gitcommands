@@ -19,8 +19,12 @@ gitcommands
     git status
 9. asignar un comentario al commit 
     git commit -m ""
-10. actualizar el commit en el origen
+10. subir el commit en el origen
     git push
 11. añadir un archivo a un commit
     git add
+12. crear una rama
+    git checkout -b ""
+13. subir una rama al origen
+    git push --set-upstream origin ""
 
